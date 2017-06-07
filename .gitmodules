@@ -4,6 +4,3 @@
 [submodule "tools/PdbToElf"]
 	path = tools/PdbToElf
 	url = https://github.com/dandelion125/PdbToElf.git
-[submodule "samples\\SimpleVisor"]
-	path = samples\\SimpleVisor
-	url = https://github.com/dandelion125/SimpleVisor.git
