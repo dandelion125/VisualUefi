@@ -1,6 +1,6 @@
 [submodule "edk2"]
 	path = edk2
-	url = ssh://git@github.com/ionescu007/edk2.git
+	url = https://github.com/ionescu007/edk2.git
 [submodule "tools/PdbToElf"]
 	path = tools/PdbToElf
 	url = https://github.com/dandelion125/PdbToElf.git
