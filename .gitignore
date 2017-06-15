@@ -11,3 +11,12 @@ openssl/include/internal/dso_conf.h
 /samples/.vs
 *.vcxproj.user
 *.db
+*.exe
+*.efi
+*.pyc
+*.log
+/samples/SimpleVisor
+/samples/EfiShellTools
+/Scripts/*.py
+/Scripts/*.bat
+/Scripts/*.sh
