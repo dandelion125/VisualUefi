@@ -20,3 +20,7 @@ openssl/include/internal/dso_conf.h
 /Scripts/*.py
 /Scripts/*.bat
 /Scripts/*.sh
+/IntelHeaders/*
+/Scripts/*
+/samples/EfiShellTools/*
+/samples/SimpleVisor/*
