@@ -24,3 +24,4 @@ openssl/include/internal/dso_conf.h
 /Scripts/*
 /samples/EfiShellTools/*
 /samples/SimpleVisor/*
+/IntelHeaders
